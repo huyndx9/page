@@ -52,6 +52,12 @@ function renderProcess(data) {
 function renderWorks(data) {
   const list = document.querySelector('[data-works-list]');
   if (!list) return;
+  if (!data.works.items.length) {
+    list.innerHTML = '';
+    list.classList.add('works__grid--empty');
+    return;
+  }
+  list.classList.remove('works__grid--empty');
   list.innerHTML = data.works.items
     .map(
       (item) => `

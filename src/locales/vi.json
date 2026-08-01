@@ -1,104 +1,87 @@
 {
   "meta": {
-    "title": "Phạm Quang Huy — Biên–Phiên dịch Hàn–Việt · Localization Game",
-    "description": "Localization chuyên game và phiên dịch Hàn–Việt. Thạc sĩ Giáo dục tiếng Hàn, TOPIK cấp 6. Cầu nối ngôn ngữ và văn hoá cho studio game và thương hiệu Hàn tại thị trường Việt Nam."
+    "title": "Phạm Quang Huy — Cầu nối ngôn ngữ & kinh doanh Việt–Hàn",
+    "description": "8 năm sống và làm việc tại Hàn Quốc. Vận hành kinh doanh, quản lý chi nhánh, phiên dịch Việt–Hàn thực tế. Thạc sĩ Giáo dục tiếng Hàn, TOPIK cấp 6."
   },
   "nav": {
     "brand": "PQH",
     "toggle": "한국어",
-    "links": { "about": "Giới thiệu", "expertise": "Năng lực", "process": "Quy trình", "works": "Dự án", "contact": "Liên hệ" }
+    "links": { "about": "Giới thiệu", "expertise": "Năng lực", "process": "Cách làm việc", "works": "Dự án", "contact": "Liên hệ" }
   },
   "hero": {
-    "eyebrow": "Localization · Phiên dịch",
+    "eyebrow": "Cầu nối Việt – Hàn",
     "name": "Phạm Quang Huy",
     "nameKo": "팜꽝휘",
-    "role": "Biên – Phiên dịch Hàn–Việt<br/>Localization chuyên Game",
-    "tagline": "Tôi không chỉ dịch — tôi đưa game và thương hiệu Hàn bước vào thị trường Việt một cách chính xác về ngôn ngữ và văn hoá.",
+    "role": "Vận hành kinh doanh · Biên–phiên dịch Việt–Hàn<br/>Thạc sĩ Giáo dục tiếng Hàn",
+    "tagline": "8 năm sống, học tập và làm việc tại Hàn Quốc cho tôi sự thấu hiểu hai nền văn hoá từ bên trong — tôi đang định hướng biến điều đó thành công việc biên–phiên dịch chuyên nghiệp.",
     "cta": "Xem năng lực",
     "scroll": "Cuộn xuống"
   },
   "about": {
     "index": "01",
-    "eyebrow": "Triết lý làm nghề",
-    "title": "Bản dịch giỏi là bản dịch vô hình",
-    "p1": "Người chơi không nên nhận ra rằng thứ họ đang đọc từng là một ngôn ngữ khác. Đó là tiêu chuẩn tôi đặt ra cho mọi dòng thoại, mọi UI string, mọi dòng lore được bản địa hoá từ tiếng Hàn sang tiếng Việt.",
-    "p2": "Nền tảng Thạc sĩ Giáo dục tiếng Hàn và TOPIK cấp 6 cho tôi sự chính xác về ngữ pháp và văn hoá; nhiều năm làm việc trực tiếp với studio và client Hàn cho tôi trực giác về nhịp điệu, sự hài hước, và ngữ cảnh — những thứ không nằm trong từ điển."
+    "eyebrow": "Hành trình",
+    "title": "Từ người trong cuộc đến người phiên dịch",
+    "p1": "Tôi sang Hàn Quốc từ năm 2017 với tư cách du học sinh. Trong quá trình học đại học, tôi tự vận hành một mô hình kinh doanh riêng trên các sàn thương mại điện tử Hàn Quốc, trực tiếp làm việc với đối tác và khách hàng người Hàn suốt nhiều năm. Hiện tại tôi quản lý vận hành một chi nhánh cửa hàng tại Hàn Quốc, nơi tôi đảm nhiệm luôn việc phiên dịch giữa quản lý người Hàn và nhân viên người Việt mỗi ngày.",
+    "p2": "Song song đó, tôi theo học Thạc sĩ Giáo dục tiếng Hàn và đạt TOPIK cấp 6 — nền tảng học thuật giúp tôi hiểu tiếng Hàn ở tầng cấu trúc, không chỉ giao tiếp thông thường. Tôi tin khả năng học nhanh và thích nghi là thế mạnh lớn nhất của mình, và đang dùng nó để bước vào công việc biên–phiên dịch một cách nghiêm túc."
   },
   "expertise": {
     "index": "02",
-    "eyebrow": "Năng lực chuyên môn",
-    "title": "Bốn trụ cột công việc",
+    "eyebrow": "Năng lực thực tế",
+    "title": "Bốn nền tảng tôi mang theo",
     "items": [
-      { "title": "Localization Game", "desc": "Dịch in-game text, UI/UX string, hội thoại nhân vật, lore, marketing copy — giữ đúng giọng thương hiệu xuyên suốt mọi nền tảng." },
-      { "title": "Phiên dịch", "desc": "Phiên dịch song song và đuổi trong họp kinh doanh, khảo sát thực địa, và các buổi làm việc trực tiếp giữa đội ngũ Hàn và Việt." },
-      { "title": "Cultural Adaptation", "desc": "Chuyển thể văn hoá (transcreation) cho yếu tố hài hước, thành ngữ, và tham chiếu văn hoá không thể dịch nguyên nghĩa." },
-      { "title": "QA / LQA ngôn ngữ", "desc": "Kiểm định chất lượng bản dịch trong bối cảnh thực tế (in-context LQA) — phát hiện lỗi truncation, encoding, sai lệch văn hoá trước khi phát hành." }
+      { "title": "Phiên dịch thực chiến", "desc": "Phiên dịch hàng ngày giữa quản lý người Hàn và nhân viên, khách hàng người Việt trong môi trường kinh doanh thực tế — không chỉ lý thuyết trong lớp học." },
+      { "title": "Vận hành & quản lý kinh doanh", "desc": "Sáng lập và điều hành một mô hình kinh doanh tại Hàn Quốc (2019–2023), hiện quản lý vận hành một chi nhánh cửa hàng — hiểu văn hoá doanh nghiệp Hàn Quốc từ thực tế." },
+      { "title": "Nền tảng học thuật tiếng Hàn", "desc": "Thạc sĩ Giáo dục tiếng Hàn, TOPIK cấp 6 — hiểu ngữ pháp, cấu trúc và văn hoá tiếng Hàn ở tầng học thuật, không chỉ trực giác." },
+      { "title": "Học nhanh, thích ứng đa lĩnh vực", "desc": "Giải Xuất sắc cuộc thi lập trình Python; liên tiếp hoàn thành các chứng chỉ Google, IBM, Meta trong cùng một tuần — minh chứng cho khả năng tiếp thu kỹ năng mới nhanh và có hệ thống." }
     ]
   },
   "process": {
     "index": "03",
-    "eyebrow": "Quy trình Localization",
-    "title": "Sáu bước, một tiêu chuẩn",
-    "intro": "Mỗi dự án đi qua cùng một quy trình chặt chẽ — không rút gọn vì deadline, không bỏ qua vì ngân sách.",
+    "eyebrow": "Cách tôi làm việc",
+    "title": "Sáu bước tiếp cận một việc mới",
+    "intro": "Đây là cách tôi đã tự học và vận hành mọi việc từ trước đến nay — từ kinh doanh đến ngôn ngữ.",
     "steps": [
-      { "num": "01", "title": "Research", "desc": "Nghiên cứu bối cảnh game, đối tượng người chơi, và bảng thuật ngữ trước khi chạm vào bản dịch đầu tiên." },
-      { "num": "02", "title": "Translation", "desc": "Dịch thuật với giọng văn nhất quán, tôn trọng giới hạn ký tự và ngữ cảnh UI." },
-      { "num": "03", "title": "Translation Memory", "desc": "Xây dựng và duy trì TM/glossary trong OmegaT, MateCat để đảm bảo nhất quán xuyên suốt dự án và các bản cập nhật sau này." },
-      { "num": "04", "title": "QA", "desc": "Đối chiếu bản dịch với nguồn, kiểm tra thuật ngữ, ngữ pháp, và định dạng XLIFF/PO." },
-      { "num": "05", "title": "LQA", "desc": "Kiểm định trong game thực tế — phát hiện lỗi hiển thị, truncation, và vấn đề văn hoá mà bản dịch trên giấy không thấy được." },
-      { "num": "06", "title": "Delivery", "desc": "Bàn giao đúng định dạng, đúng deadline, kèm báo cáo QA rõ ràng cho đội ngũ phát triển." }
+      { "num": "01", "title": "Quan sát", "desc": "Tìm hiểu kỹ bối cảnh, đối tượng, và yêu cầu thực tế trước khi bắt tay vào việc." },
+      { "num": "02", "title": "Tự học có hệ thống", "desc": "Học nhanh qua tài liệu chính thống — khoá học, chứng chỉ — thay vì học chắp vá." },
+      { "num": "03", "title": "Thực hành thật", "desc": "Áp dụng ngay vào công việc thực tế, như cách tôi từng tự vận hành kinh doanh từ con số 0." },
+      { "num": "04", "title": "Kiểm tra & đối chiếu", "desc": "Tự đánh giá kết quả, đối chiếu với chuẩn mực và phản hồi thực tế." },
+      { "num": "05", "title": "Thích nghi", "desc": "Điều chỉnh cách làm cho đúng ngữ cảnh văn hoá và đối tượng cụ thể." },
+      { "num": "06", "title": "Cam kết lâu dài", "desc": "Duy trì chất lượng ổn định theo thời gian — như 4 năm vận hành kinh doanh liên tục." }
     ]
   },
   "works": {
     "index": "04",
-    "eyebrow": "Dự án tiêu biểu",
-    "title": "Selected Works",
-    "placeholderNote": "Case study đầy đủ sẽ được cập nhật sau khi hoàn tất NDA / phát hành.",
-    "items": [
-      {
-        "tag": "RPG Mobile · KO → VI",
-        "title": "Dự án Localization Game [Đang cập nhật]",
-        "role": "Biên dịch chính & LQA",
-        "challenge": "Khối lượng lớn hội thoại nhân vật với văn phong đặc trưng, giới hạn ký tự UI nghiêm ngặt.",
-        "solution": "Xây glossary riêng cho từng nhân vật, áp dụng TM xuyên suốt bản cập nhật để giữ nhất quán giọng văn.",
-        "result": "Bản dịch được đội ngũ phát hành đánh giá tự nhiên như văn bản gốc tiếng Việt."
-      },
-      {
-        "tag": "Marketing · KO → VI",
-        "title": "Chiến dịch ra mắt [Đang cập nhật]",
-        "role": "Transcreation & Copywriting",
-        "challenge": "Yếu tố hài hước và chơi chữ trong tagline không thể dịch nguyên nghĩa.",
-        "solution": "Chuyển thể sáng tạo giữ đúng tinh thần thương hiệu thay vì dịch từng chữ.",
-        "result": "Tagline được sử dụng chính thức trong chiến dịch ra mắt tại Việt Nam."
-      },
-      {
-        "tag": "LQA · In-context",
-        "title": "Kiểm định chất lượng bản dịch [Đang cập nhật]",
-        "role": "Lead LQA Tester",
-        "challenge": "Phát hiện lỗi hiển thị và truncation chỉ xuất hiện khi chạy trong game thực tế.",
-        "solution": "Thiết lập quy trình kiểm định in-context có hệ thống, báo cáo lỗi theo mức độ ưu tiên.",
-        "result": "Giảm đáng kể số lỗi hiển thị được báo cáo sau khi phát hành."
-      }
-    ]
+    "eyebrow": "Dự án",
+    "title": "Portfolio đang xây dựng",
+    "placeholderNote": "Tôi hiện chưa có dự án biên–phiên dịch chính thức để giới thiệu — nhưng nền tảng ngôn ngữ, kinh nghiệm vận hành thực tế, và khả năng học nhanh đã sẵn sàng cho dự án đầu tiên. Liên hệ để trao đổi trực tiếp.",
+    "items": []
   },
   "achievements": {
     "index": "05",
     "eyebrow": "Thành tựu",
-    "title": "Nền tảng học thuật & chứng chỉ",
+    "title": "Học vấn, chứng chỉ & giải thưởng",
     "items": [
-      { "year": "2024", "title": "Thạc sĩ Giáo dục tiếng Hàn", "desc": "Chuyên ngành giảng dạy tiếng Hàn như ngoại ngữ." },
-      { "year": "2022", "title": "TOPIK cấp 6", "desc": "Chứng chỉ năng lực tiếng Hàn cao cấp nhất." },
-      { "year": "—", "title": "Giải thưởng / Chứng nhận khác", "desc": "Sẽ được cập nhật." }
+      { "year": "2026", "title": "Thạc sĩ Giáo dục tiếng Hàn", "desc": "Đại học Onseok" },
+      { "year": "2023", "title": "Cử nhân Quản trị Kinh doanh", "desc": "Đại học Pyeongtaek" },
+      { "year": "2017", "title": "Trung cấp Máy công binh", "desc": "Trường Trung cấp Kỹ thuật Công binh, Việt Nam" },
+      { "year": "TOPIK 6", "title": "Năng lực tiếng Hàn cao cấp nhất", "desc": "Kỳ thi năng lực tiếng Hàn quốc gia" },
+      { "year": "HSK 3", "title": "Năng lực tiếng Trung", "desc": "Hán ngữ Thuỷ bình Khảo thí" },
+      { "year": "2026", "title": "Giải Nhất — Thi nói tiếng Hàn", "desc": "Đại học Onseok" },
+      { "year": "2023", "title": "Giải Xuất sắc — Thi lập trình Python", "desc": "Đại học Pyeongtaek" },
+      { "year": "2026", "title": "Google IT Support Professional Certificate", "desc": "Coursera" },
+      { "year": "2026", "title": "Programming in Python", "desc": "Meta · Coursera" },
+      { "year": "2026", "title": "Project Management Foundations & Introduction to PM", "desc": "IBM / SkillUp · Coursera" },
+      { "year": "2026", "title": "AI, Business & the Future of Work", "desc": "Đại học Lund · Coursera" },
+      { "year": "2026", "title": "IT Fundamentals for Everyone", "desc": "IBM · Coursera" }
     ]
   },
   "contact": {
     "index": "06",
     "eyebrow": "Liên hệ",
     "title": "Kết nối",
-    "desc": "Đang tìm kiếm một cầu nối ngôn ngữ và văn hoá đáng tin cậy cho dự án game hoặc thương hiệu Hàn của bạn? Hãy liên hệ.",
+    "desc": "Đang tìm kiếm một cầu nối ngôn ngữ và văn hoá đáng tin cậy giữa Việt Nam và Hàn Quốc? Hãy liên hệ trực tiếp.",
     "emailLabel": "Email",
-    "linkedinLabel": "LinkedIn",
-    "githubLabel": "GitHub",
+    "phoneLabel": "Điện thoại",
     "resumeLabel": "Tải Resume"
   },
   "footer": {

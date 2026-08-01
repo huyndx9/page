@@ -27,7 +27,7 @@ function initLenis() {
 
 let revealTriggers = [];
 
-// Re-entrant: dynamic sections (expertise/process/works/achievements) get
+// Re-entrant: dynamic sections (expertise/process/experience/achievements) get
 // their [data-reveal] nodes replaced wholesale on every language toggle,
 // so stale ScrollTriggers pointing at removed nodes must be killed first.
 function initReveals() {

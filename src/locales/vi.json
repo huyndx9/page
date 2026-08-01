@@ -6,7 +6,7 @@
   "nav": {
     "brand": "PQH",
     "toggle": "한국어",
-    "links": { "about": "Giới thiệu", "expertise": "Năng lực", "process": "Cách làm việc", "works": "Dự án", "contact": "Liên hệ" }
+    "links": { "about": "Giới thiệu", "expertise": "Năng lực", "process": "Cách làm việc", "experience": "Kinh nghiệm", "contact": "Liên hệ" }
   },
   "hero": {
     "eyebrow": "Cầu nối Việt – Hàn",
@@ -49,12 +49,34 @@
       { "num": "06", "title": "Cam kết lâu dài", "desc": "Duy trì chất lượng ổn định theo thời gian — như 4 năm vận hành kinh doanh liên tục." }
     ]
   },
-  "works": {
+  "experience": {
     "index": "04",
-    "eyebrow": "Dự án",
-    "title": "Portfolio đang xây dựng",
-    "placeholderNote": "Tôi hiện chưa có dự án biên–phiên dịch chính thức để giới thiệu — nhưng nền tảng ngôn ngữ, kinh nghiệm vận hành thực tế, và khả năng học nhanh đã sẵn sàng cho dự án đầu tiên. Liên hệ để trao đổi trực tiếp.",
-    "items": []
+    "eyebrow": "Kinh nghiệm thực tế",
+    "title": "Kinh nghiệm làm việc",
+    "items": [
+      {
+        "role": "Người sáng lập",
+        "company": "AHQ-mobile",
+        "meta": "Pyeongtaek, Hàn Quốc · 2019 – 2023",
+        "bullets": [
+          "Tự vận hành kinh doanh trên các sàn thương mại điện tử Hàn Quốc (bunjang, joongna, hellomarket, karrot...).",
+          "Áp dụng kiến thức Marketing và Quản trị kinh doanh vào thực tiễn — doanh thu trung bình 20–30 triệu won/tháng, cao nhất gần 50 triệu won.",
+          "Hợp tác trực tiếp với đối tác người Hàn Quốc trong suốt quá trình vận hành.",
+          "Xây dựng mạng lưới quan hệ rộng với khách hàng và đối tác cả người Hàn lẫn người Việt."
+        ]
+      },
+      {
+        "role": "Quản lý chi nhánh",
+        "company": "택이네 (Pyeongtaek Beopwon)",
+        "meta": "Pyeongtaek, Hàn Quốc · 2023 – hiện tại",
+        "bullets": [
+          "Phụ trách phiên dịch và biên dịch để hỗ trợ giao tiếp giữa giám đốc người Hàn và nhân viên người Việt.",
+          "Quản lý vận hành cửa hàng và nhân sự.",
+          "Quản lý doanh thu, nâng cao chất lượng dịch vụ khách hàng.",
+          "Giao tiếp với khách hàng mới và duy trì khách hàng thân thiết."
+        ]
+      }
+    ]
   },
   "achievements": {
     "index": "05",

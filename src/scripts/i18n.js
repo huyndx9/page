@@ -49,28 +49,20 @@ function renderProcess(data) {
     .join('');
 }
 
-function renderWorks(data) {
-  const list = document.querySelector('[data-works-list]');
+function renderExperience(data) {
+  const list = document.querySelector('[data-experience-list]');
   if (!list) return;
-  if (!data.works.items.length) {
-    list.innerHTML = '';
-    list.classList.add('works__grid--empty');
-    return;
-  }
-  list.classList.remove('works__grid--empty');
-  list.innerHTML = data.works.items
+  list.innerHTML = data.experience.items
     .map(
       (item) => `
-    <article class="work-card" data-reveal tabindex="0">
-      <div class="work-card__media" aria-hidden="true"></div>
-      <p class="work-card__tag">${item.tag}</p>
-      <h3 class="work-card__title">${item.title}</h3>
-      <dl class="work-card__meta">
-        <dt>Role</dt><dd>${item.role}</dd>
-        <dt>Challenge</dt><dd>${item.challenge}</dd>
-        <dt>Solution</dt><dd>${item.solution}</dd>
-        <dt>Result</dt><dd>${item.result}</dd>
-      </dl>
+    <article class="experience-item" data-reveal>
+      <div class="experience-item__header">
+        <h3 class="experience-item__role">${item.role}</h3>
+        <p class="experience-item__meta mono-label">${item.company} · ${item.meta}</p>
+      </div>
+      <ul class="experience-item__bullets">
+        ${item.bullets.map((b) => `<li>${b}</li>`).join('')}
+      </ul>
     </article>`
     )
     .join('');
@@ -119,7 +111,7 @@ export function applyLang(lang, { silent = false } = {}) {
   applyStaticText(data);
   renderExpertise(data);
   renderProcess(data);
-  renderWorks(data);
+  renderExperience(data);
   renderAchievements(data);
 
   localStorage.setItem(STORAGE_KEY, lang);

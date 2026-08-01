@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Phạm Quang Huy — Cầu nối ngôn ngữ & kinh doanh Việt–Hàn",
-    "description": "8 năm sống và làm việc tại Hàn Quốc. Vận hành kinh doanh, quản lý chi nhánh, phiên dịch Việt–Hàn thực tế. Thạc sĩ Giáo dục tiếng Hàn, TOPIK cấp 6."
+    "title": "Phạm Quang Huy — Cầu nối kỹ thuật Việt–Hàn (BrSE)",
+    "description": "8 năm sống và làm việc tại Hàn Quốc. Vận hành kinh doanh, quản lý chi nhánh, phiên dịch Việt–Hàn thực tế, đang xây dựng nền tảng CNTT hướng tới vai trò cầu nối kỹ thuật (BrSE). Thạc sĩ Giáo dục tiếng Hàn, TOPIK cấp 6."
   },
   "nav": {
     "brand": "PQH",
@@ -9,30 +9,30 @@
     "links": { "about": "Giới thiệu", "expertise": "Năng lực", "process": "Cách làm việc", "experience": "Kinh nghiệm", "contact": "Liên hệ" }
   },
   "hero": {
-    "eyebrow": "Cầu nối Việt – Hàn",
+    "eyebrow": "Cầu nối kỹ thuật Việt – Hàn",
     "name": "Phạm Quang Huy",
     "nameKo": "팜꽝휘",
-    "role": "Vận hành kinh doanh · Biên–phiên dịch Việt–Hàn<br/>Thạc sĩ Giáo dục tiếng Hàn",
-    "tagline": "8 năm sống, học tập và làm việc tại Hàn Quốc cho tôi sự thấu hiểu hai nền văn hoá từ bên trong — tôi đang định hướng biến điều đó thành công việc biên–phiên dịch chuyên nghiệp.",
+    "role": "Vận hành kinh doanh · Cầu nối Việt–Hàn<br/>Định hướng Bridge Engineer (BrSE)",
+    "tagline": "8 năm sống và làm việc tại Hàn Quốc cho tôi sự thấu hiểu văn hoá và quy trình vận hành từ bên trong. Kết hợp với nền tảng CNTT tôi đang xây dựng, tôi định hướng trở thành cầu nối kỹ thuật giữa đội ngũ Hàn Quốc và Việt Nam.",
     "cta": "Xem năng lực",
     "scroll": "Cuộn xuống"
   },
   "about": {
     "index": "01",
     "eyebrow": "Hành trình",
-    "title": "Từ người trong cuộc đến người phiên dịch",
+    "title": "Từ người trong cuộc đến cầu nối kỹ thuật",
     "p1": "Tôi sang Hàn Quốc từ năm 2017 với tư cách du học sinh. Trong quá trình học đại học, tôi tự vận hành một mô hình kinh doanh riêng trên các sàn thương mại điện tử Hàn Quốc, trực tiếp làm việc với đối tác và khách hàng người Hàn suốt nhiều năm. Hiện tại tôi quản lý vận hành một chi nhánh cửa hàng tại Hàn Quốc, nơi tôi đảm nhiệm luôn việc phiên dịch giữa quản lý người Hàn và nhân viên người Việt mỗi ngày.",
-    "p2": "Song song đó, tôi theo học Thạc sĩ Giáo dục tiếng Hàn và đạt TOPIK cấp 6 — nền tảng học thuật giúp tôi hiểu tiếng Hàn ở tầng cấu trúc, không chỉ giao tiếp thông thường. Tôi tin khả năng học nhanh và thích nghi là thế mạnh lớn nhất của mình, và đang dùng nó để bước vào công việc biên–phiên dịch một cách nghiêm túc."
+    "p2": "Song song đó, tôi theo học Thạc sĩ Giáo dục tiếng Hàn và đạt TOPIK cấp 6. Giải Xuất sắc cuộc thi lập trình Python cùng các chứng chỉ Google IT Support, Quản lý dự án, AI & Kinh doanh tôi vừa hoàn thành là bước đầu xây dựng nền tảng kỹ thuật. Tôi tin khả năng học nhanh và thích nghi là thế mạnh lớn nhất của mình, và đang dùng nó để định hướng trở thành cầu nối kỹ thuật (Bridge Engineer) giữa đội ngũ Hàn Quốc và Việt Nam."
   },
   "expertise": {
     "index": "02",
     "eyebrow": "Năng lực thực tế",
     "title": "Bốn nền tảng tôi mang theo",
     "items": [
-      { "title": "Phiên dịch thực chiến", "desc": "Phiên dịch hàng ngày giữa quản lý người Hàn và nhân viên, khách hàng người Việt trong môi trường kinh doanh thực tế — không chỉ lý thuyết trong lớp học." },
-      { "title": "Vận hành & quản lý kinh doanh", "desc": "Sáng lập và điều hành một mô hình kinh doanh tại Hàn Quốc (2019–2023), hiện quản lý vận hành một chi nhánh cửa hàng — hiểu văn hoá doanh nghiệp Hàn Quốc từ thực tế." },
-      { "title": "Nền tảng học thuật tiếng Hàn", "desc": "Thạc sĩ Giáo dục tiếng Hàn, TOPIK cấp 6 — hiểu ngữ pháp, cấu trúc và văn hoá tiếng Hàn ở tầng học thuật, không chỉ trực giác." },
-      { "title": "Học nhanh, thích ứng đa lĩnh vực", "desc": "Giải Xuất sắc cuộc thi lập trình Python; liên tiếp hoàn thành các chứng chỉ Google, IBM, Meta trong cùng một tuần — minh chứng cho khả năng tiếp thu kỹ năng mới nhanh và có hệ thống." }
+      { "title": "Cầu nối giao tiếp thực chiến", "desc": "Phiên dịch hàng ngày giữa quản lý người Hàn và nhân viên, khách hàng người Việt trong môi trường kinh doanh thực tế — nền tảng giao tiếp xuyên văn hoá cho vai trò cầu nối kỹ thuật." },
+      { "title": "Vận hành & tư duy hệ thống", "desc": "Sáng lập và điều hành một mô hình kinh doanh tại Hàn Quốc (2019–2023), hiện quản lý vận hành một chi nhánh cửa hàng — quen với việc theo dõi số liệu, quy trình và ra quyết định vận hành." },
+      { "title": "Nền tảng học thuật tiếng Hàn", "desc": "Thạc sĩ Giáo dục tiếng Hàn, TOPIK cấp 6 — hiểu ngữ pháp, cấu trúc và văn hoá tiếng Hàn ở tầng học thuật, nền tảng để truyền đạt chính xác yêu cầu công việc giữa hai bên." },
+      { "title": "Nền tảng CNTT đang xây dựng", "desc": "Giải Xuất sắc cuộc thi lập trình Python; liên tiếp hoàn thành Google IT Support, Quản lý dự án (IBM/SkillUp), AI & Kinh doanh (Lund) trong cùng một tuần — nền tảng kỹ thuật tôi đang chủ động xây dựng." }
     ]
   },
   "process": {
@@ -82,19 +82,39 @@
     "index": "05",
     "eyebrow": "Thành tựu",
     "title": "Học vấn, chứng chỉ & giải thưởng",
-    "items": [
-      { "year": "2026", "title": "Thạc sĩ Giáo dục tiếng Hàn", "desc": "Đại học Onseok" },
-      { "year": "2023", "title": "Cử nhân Quản trị Kinh doanh", "desc": "Đại học Pyeongtaek" },
-      { "year": "2017", "title": "Trung cấp Máy công binh", "desc": "Trường Trung cấp Kỹ thuật Công binh, Việt Nam" },
-      { "year": "TOPIK 6", "title": "Năng lực tiếng Hàn cao cấp nhất", "desc": "Kỳ thi năng lực tiếng Hàn quốc gia" },
-      { "year": "HSK 3", "title": "Năng lực tiếng Trung", "desc": "Hán ngữ Thuỷ bình Khảo thí" },
-      { "year": "2026", "title": "Giải Nhất — Thi nói tiếng Hàn", "desc": "Đại học Onseok" },
-      { "year": "2023", "title": "Giải Xuất sắc — Thi lập trình Python", "desc": "Đại học Pyeongtaek" },
-      { "year": "2026", "title": "Google IT Support Professional Certificate", "desc": "Coursera" },
-      { "year": "2026", "title": "Programming in Python", "desc": "Meta · Coursera" },
-      { "year": "2026", "title": "Project Management Foundations & Introduction to PM", "desc": "IBM / SkillUp · Coursera" },
-      { "year": "2026", "title": "AI, Business & the Future of Work", "desc": "Đại học Lund · Coursera" },
-      { "year": "2026", "title": "IT Fundamentals for Everyone", "desc": "IBM · Coursera" }
+    "groups": [
+      {
+        "label": "Học vấn",
+        "items": [
+          { "year": "2026", "title": "Thạc sĩ Giáo dục tiếng Hàn", "desc": "Đại học Onseok" },
+          { "year": "2023", "title": "Cử nhân Quản trị Kinh doanh", "desc": "Đại học Pyeongtaek" },
+          { "year": "2017", "title": "Trung cấp Máy công binh", "desc": "Trường Trung cấp Kỹ thuật Công binh, Việt Nam" }
+        ]
+      },
+      {
+        "label": "Năng lực ngoại ngữ",
+        "items": [
+          { "year": "TOPIK 6", "title": "Năng lực tiếng Hàn cao cấp nhất", "desc": "Kỳ thi năng lực tiếng Hàn quốc gia" },
+          { "year": "HSK 3", "title": "Năng lực tiếng Trung", "desc": "Hán ngữ Thuỷ bình Khảo thí" }
+        ]
+      },
+      {
+        "label": "Giải thưởng",
+        "items": [
+          { "year": "2026", "title": "Giải Nhất — Thi nói tiếng Hàn", "desc": "Đại học Onseok" },
+          { "year": "2023", "title": "Giải Xuất sắc — Thi lập trình Python", "desc": "Đại học Pyeongtaek" }
+        ]
+      },
+      {
+        "label": "Chứng chỉ",
+        "items": [
+          { "year": "2026", "title": "Google IT Support Professional Certificate", "desc": "Coursera" },
+          { "year": "2026", "title": "Programming in Python", "desc": "Meta · Coursera" },
+          { "year": "2026", "title": "Project Management Foundations & Introduction to PM", "desc": "IBM / SkillUp · Coursera" },
+          { "year": "2026", "title": "AI, Business & the Future of Work", "desc": "Đại học Lund · Coursera" },
+          { "year": "2026", "title": "IT Fundamentals for Everyone", "desc": "IBM · Coursera" }
+        ]
+      }
     ]
   },
   "contact": {

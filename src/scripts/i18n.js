@@ -69,16 +69,26 @@ function renderExperience(data) {
 }
 
 function renderAchievements(data) {
-  const list = document.querySelector('[data-achievements-list]');
-  if (!list) return;
-  list.innerHTML = data.achievements.items
+  const container = document.querySelector('[data-achievements-list]');
+  if (!container) return;
+  container.innerHTML = data.achievements.groups
     .map(
-      (item) => `
-    <li class="achievement-item" data-reveal>
-      <span class="achievement-item__year mono-label">${item.year}</span>
-      <span class="achievement-item__title">${item.title}</span>
-      <span class="achievement-item__desc">${item.desc}</span>
-    </li>`
+      (group) => `
+    <div class="achievements__group" data-reveal>
+      <p class="achievements__group-label mono-label">${group.label}</p>
+      <ul class="achievement-list">
+        ${group.items
+          .map(
+            (item) => `
+        <li class="achievement-item">
+          <span class="achievement-item__year mono-label">${item.year}</span>
+          <span class="achievement-item__title">${item.title}</span>
+          <span class="achievement-item__desc">${item.desc}</span>
+        </li>`
+          )
+          .join('')}
+      </ul>
+    </div>`
     )
     .join('');
 }

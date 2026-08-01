@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Phạm Quang Huy — Biên–Phiên dịch Hàn–Việt · Localization Game",
+    "description": "Localization chuyên game và phiên dịch Hàn–Việt. Thạc sĩ Giáo dục tiếng Hàn, TOPIK cấp 6. Cầu nối ngôn ngữ và văn hoá cho studio game và thương hiệu Hàn tại thị trường Việt Nam."
+  },
+  "nav": {
+    "brand": "PQH",
+    "toggle": "한국어",
+    "links": { "about": "Giới thiệu", "expertise": "Năng lực", "process": "Quy trình", "works": "Dự án", "contact": "Liên hệ" }
+  },
+  "hero": {
+    "eyebrow": "Localization · Phiên dịch",
+    "name": "Phạm Quang Huy",
+    "nameKo": "팜꽝휘",
+    "role": "Biên – Phiên dịch Hàn–Việt<br/>Localization chuyên Game",
+    "tagline": "Tôi không chỉ dịch — tôi đưa game và thương hiệu Hàn bước vào thị trường Việt một cách chính xác về ngôn ngữ và văn hoá.",
+    "cta": "Xem năng lực",
+    "scroll": "Cuộn xuống"
+  },
+  "about": {
+    "index": "01",
+    "eyebrow": "Triết lý làm nghề",
+    "title": "Bản dịch giỏi là bản dịch vô hình",
+    "p1": "Người chơi không nên nhận ra rằng thứ họ đang đọc từng là một ngôn ngữ khác. Đó là tiêu chuẩn tôi đặt ra cho mọi dòng thoại, mọi UI string, mọi dòng lore được bản địa hoá từ tiếng Hàn sang tiếng Việt.",
+    "p2": "Nền tảng Thạc sĩ Giáo dục tiếng Hàn và TOPIK cấp 6 cho tôi sự chính xác về ngữ pháp và văn hoá; nhiều năm làm việc trực tiếp với studio và client Hàn cho tôi trực giác về nhịp điệu, sự hài hước, và ngữ cảnh — những thứ không nằm trong từ điển."
+  },
+  "expertise": {
+    "index": "02",
+    "eyebrow": "Năng lực chuyên môn",
+    "title": "Bốn trụ cột công việc",
+    "items": [
+      { "title": "Localization Game", "desc": "Dịch in-game text, UI/UX string, hội thoại nhân vật, lore, marketing copy — giữ đúng giọng thương hiệu xuyên suốt mọi nền tảng." },
+      { "title": "Phiên dịch", "desc": "Phiên dịch song song và đuổi trong họp kinh doanh, khảo sát thực địa, và các buổi làm việc trực tiếp giữa đội ngũ Hàn và Việt." },
+      { "title": "Cultural Adaptation", "desc": "Chuyển thể văn hoá (transcreation) cho yếu tố hài hước, thành ngữ, và tham chiếu văn hoá không thể dịch nguyên nghĩa." },
+      { "title": "QA / LQA ngôn ngữ", "desc": "Kiểm định chất lượng bản dịch trong bối cảnh thực tế (in-context LQA) — phát hiện lỗi truncation, encoding, sai lệch văn hoá trước khi phát hành." }
+    ]
+  },
+  "process": {
+    "index": "03",
+    "eyebrow": "Quy trình Localization",
+    "title": "Sáu bước, một tiêu chuẩn",
+    "intro": "Mỗi dự án đi qua cùng một quy trình chặt chẽ — không rút gọn vì deadline, không bỏ qua vì ngân sách.",
+    "steps": [
+      { "num": "01", "title": "Research", "desc": "Nghiên cứu bối cảnh game, đối tượng người chơi, và bảng thuật ngữ trước khi chạm vào bản dịch đầu tiên." },
+      { "num": "02", "title": "Translation", "desc": "Dịch thuật với giọng văn nhất quán, tôn trọng giới hạn ký tự và ngữ cảnh UI." },
+      { "num": "03", "title": "Translation Memory", "desc": "Xây dựng và duy trì TM/glossary trong OmegaT, MateCat để đảm bảo nhất quán xuyên suốt dự án và các bản cập nhật sau này." },
+      { "num": "04", "title": "QA", "desc": "Đối chiếu bản dịch với nguồn, kiểm tra thuật ngữ, ngữ pháp, và định dạng XLIFF/PO." },
+      { "num": "05", "title": "LQA", "desc": "Kiểm định trong game thực tế — phát hiện lỗi hiển thị, truncation, và vấn đề văn hoá mà bản dịch trên giấy không thấy được." },
+      { "num": "06", "title": "Delivery", "desc": "Bàn giao đúng định dạng, đúng deadline, kèm báo cáo QA rõ ràng cho đội ngũ phát triển." }
+    ]
+  },
+  "works": {
+    "index": "04",
+    "eyebrow": "Dự án tiêu biểu",
+    "title": "Selected Works",
+    "placeholderNote": "Case study đầy đủ sẽ được cập nhật sau khi hoàn tất NDA / phát hành.",
+    "items": [
+      {
+        "tag": "RPG Mobile · KO → VI",
+        "title": "Dự án Localization Game [Đang cập nhật]",
+        "role": "Biên dịch chính & LQA",
+        "challenge": "Khối lượng lớn hội thoại nhân vật với văn phong đặc trưng, giới hạn ký tự UI nghiêm ngặt.",
+        "solution": "Xây glossary riêng cho từng nhân vật, áp dụng TM xuyên suốt bản cập nhật để giữ nhất quán giọng văn.",
+        "result": "Bản dịch được đội ngũ phát hành đánh giá tự nhiên như văn bản gốc tiếng Việt."
+      },
+      {
+        "tag": "Marketing · KO → VI",
+        "title": "Chiến dịch ra mắt [Đang cập nhật]",
+        "role": "Transcreation & Copywriting",
+        "challenge": "Yếu tố hài hước và chơi chữ trong tagline không thể dịch nguyên nghĩa.",
+        "solution": "Chuyển thể sáng tạo giữ đúng tinh thần thương hiệu thay vì dịch từng chữ.",
+        "result": "Tagline được sử dụng chính thức trong chiến dịch ra mắt tại Việt Nam."
+      },
+      {
+        "tag": "LQA · In-context",
+        "title": "Kiểm định chất lượng bản dịch [Đang cập nhật]",
+        "role": "Lead LQA Tester",
+        "challenge": "Phát hiện lỗi hiển thị và truncation chỉ xuất hiện khi chạy trong game thực tế.",
+        "solution": "Thiết lập quy trình kiểm định in-context có hệ thống, báo cáo lỗi theo mức độ ưu tiên.",
+        "result": "Giảm đáng kể số lỗi hiển thị được báo cáo sau khi phát hành."
+      }
+    ]
+  },
+  "achievements": {
+    "index": "05",
+    "eyebrow": "Thành tựu",
+    "title": "Nền tảng học thuật & chứng chỉ",
+    "items": [
+      { "year": "2024", "title": "Thạc sĩ Giáo dục tiếng Hàn", "desc": "Chuyên ngành giảng dạy tiếng Hàn như ngoại ngữ." },
+      { "year": "2022", "title": "TOPIK cấp 6", "desc": "Chứng chỉ năng lực tiếng Hàn cao cấp nhất." },
+      { "year": "—", "title": "Giải thưởng / Chứng nhận khác", "desc": "Sẽ được cập nhật." }
+    ]
+  },
+  "contact": {
+    "index": "06",
+    "eyebrow": "Liên hệ",
+    "title": "Kết nối",
+    "desc": "Đang tìm kiếm một cầu nối ngôn ngữ và văn hoá đáng tin cậy cho dự án game hoặc thương hiệu Hàn của bạn? Hãy liên hệ.",
+    "emailLabel": "Email",
+    "linkedinLabel": "LinkedIn",
+    "githubLabel": "GitHub",
+    "resumeLabel": "Tải Resume"
+  },
+  "footer": {
+    "rights": "© 2026 Phạm Quang Huy. Đã giữ mọi quyền.",
+    "back": "Lên đầu trang"
+  }
+}

@@ -1,0 +1,80 @@
+/* ============================================================
+   DESIGN TOKENS — single source of truth. Do not hardcode
+   colors, spacing, radii, or durations anywhere else.
+   ============================================================ */
+:root {
+  /* — Color — */
+  --base: #090909;
+  --surface: #121212;
+  --surface-raised: #161616;
+  --text: #F4F2ED;
+  --muted: #8B8B8B;
+  --hairline: rgba(255, 255, 255, 0.08);
+  --hairline-strong: rgba(255, 255, 255, 0.14);
+
+  --accent: #C6A15B;
+  --accent-bright: #E3C583;
+  --accent-dim: #8A6F3E;
+
+  /* — Typography — */
+  --font-display: 'Fraunces Variable', serif;
+  --font-body: 'Inter Variable', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+  --font-ko: 'Pretendard Variable', 'Inter Variable', sans-serif;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.333rem;
+  --text-xl: clamp(1.75rem, 1rem + 2vw, 2.5rem);
+  --text-2xl: clamp(2.25rem, 1rem + 4vw, 3.5rem);
+  --text-3xl: clamp(3rem, 0.5rem + 7vw, 5.5rem);
+
+  --leading-tight: 1.1;
+  --leading-snug: 1.3;
+  --leading-normal: 1.6;
+
+  /* — Spacing scale (8px base) — */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-6: 24px;
+  --sp-8: 32px;
+  --sp-12: 48px;
+  --sp-16: 64px;
+  --sp-24: 96px;
+  --sp-32: 128px;
+
+  /* — Radius — */
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+
+  /* — Elevation (minimal — hairline + subtle shadow only) — */
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3);
+
+  /* — Grid / layout — */
+  --container-max: 1280px;
+  --margin-desktop: 96px;
+  --margin-laptop: 64px;
+  --margin-mobile: 24px;
+  --gutter: 24px;
+
+  /* — Breakpoints (referenced in comments; media queries hardcode px per CSS spec limitation) — */
+  --bp-mobile: 360px;
+  --bp-tablet: 744px;
+  --bp-laptop: 1024px;
+  --bp-desktop: 1440px;
+  --bp-wide: 1920px;
+
+  /* — Motion — */
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-inout: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 0.4s;
+  --dur-base: 0.6s;
+  --dur-slow: 0.8s;
+
+  --cursor-lerp: 0.15;
+  --magnetic-pull: 0.28;
+}

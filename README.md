@@ -45,8 +45,6 @@ publishes it to GitHub Pages — no build step. Push to `main` to deploy.
 - **Contact form**: the form in the Contact section has no submit
   handler yet — it's decorative. Needs a backend (e.g. Formspree,
   a serverless function) or should be replaced with mailto/tel links only.
-- **Canonical domain**: meta tags reference `https://pqh.dev` — update if
-  that domain isn't live, or point to the actual GitHub Pages URL.
 - **Projects section**: lists Job Search Platform, AI Translation
   Assistant, and an AI/Video pipeline — confirm these have real
   repos/demos to link before a recruiter asks.

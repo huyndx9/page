@@ -198,8 +198,9 @@ function showDirection(dir){
   const prevDir=currentDir; currentDir=dir;
   console.log('Eye tracking active:',dir);
   if(dir==='center'){overlay.style.opacity=0; return;}
-  if(prevDir==='center'){overlay.src=EYE_IMG[dir]; fadeTimer=setTimeout(()=>{overlay.style.opacity=1;},16);}
-  else{overlay.style.opacity=0; fadeTimer=setTimeout(()=>{overlay.src=EYE_IMG[dir]; overlay.style.opacity=1;},100);}
+  overlay.src=EYE_IMG[dir];
+  if(prevDir==='center'){fadeTimer=setTimeout(()=>{overlay.style.opacity=1;},16);}
+  else{overlay.style.opacity=1;}
 }
 const DIR_SECTORS=['right','down-right','down','down-left','left','up-left','up','up-right'];
 function angleToDir(dx,dy){

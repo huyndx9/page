@@ -185,8 +185,10 @@ const EYE_IMG = {"center": "data:image/webp;base64,UklGRgCsAABXRUJQVlA4IPSrAADwC
 <script>
 (function(){
 const avatarWrap=document.querySelector('.portrait'); const base=document.getElementById('pqh-avatar'); const overlay=document.getElementById('pqh-avatar-overlay');
-if(!avatarWrap||!base||!overlay) return;
-if(window.matchMedia('(prefers-reduced-motion: reduce)').matches||window.innerWidth<=768) return;
+if(!avatarWrap||!base||!overlay){console.log('Eye tracking disabled: avatar elements not found'); return;}
+if(window.matchMedia('(prefers-reduced-motion: reduce)').matches){console.log('Eye tracking disabled: prefers-reduced-motion is on'); return;}
+if(window.innerWidth<=768){console.log('Eye tracking disabled: viewport width', window.innerWidth, '<= 768'); return;}
+console.log('Eye tracking initialized');
 Object.values(EYE_IMG).forEach(src=>{const im=new Image(); im.src=src;});
 base.src=EYE_IMG.center;
 let currentDir='center', lastMove=Date.now(), lastProcess=0, fadeTimer=null, blinking=false;
